@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm San
 #### BAS-Cloud Computing Student | A+| Net+ | Sec+| CIOS | CSIS| Azure Certified
-![BAS-Cloud Computing Student | A+| Net+ | Sec+| CIOS | CSIS| Azure Certified](https://media.licdn.com/dms/image/D5616AQEwOwNpp6Iq9g/profile-displaybackgroundimage-shrink_350_1400/0/1670747414692?e=1676505600&v=beta&t=7QvyQdPO-gHe2Vtur8_gN8UBgw1nt5XalTa8P7LXuPA)
+![BAS-Cloud Computing Student | A+| Net+ | Sec+| CIOS | CSIS| Azure Certified](https://github.com/sanfofana/sanfofana/blob/main/Screen%20Shot%202022-12-11%20at%2012.34.27%20AM.png)
 
 Passionate IT Professional, pursuing my Bachelor Degree in Cloud Computing at Western Governors University.  CompTIA A+, Network+, Security +, CIOS , CSIS, and Microsoft Azure Certified. On the path for Microsoft Azure DevOps Engineer Certification. I enjoy learning and improving my skills.
 
