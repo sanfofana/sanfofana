@@ -25,6 +25,7 @@ Passionate IT Professional, pursuing my Bachelor Degree in Cloud Computing at We
  
 <b>Python programs<b/>
   
+ [Blackjack Game C++](https://sanfofana.github.io/Blackjack_game)
   
 <b>Microsoft Azure<b/>
   
