@@ -12,7 +12,19 @@ Passionate IT Professional, pursuing my Bachelor Degree in Cloud Computing at We
 * 🖥Java
 * 👨🏾‍🎓Networking
 
-
+## Projects:
+<b>Active Directory lab<b/>
+ 
+<b>Python programs<b/>
+  
+  
+<b>Microsoft Azure<b/>
+  
+  
+<b>Networking<b/>
+  
+  
+<b>Cybersecurity<b/>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sanfofana)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/sanfofana/) 
