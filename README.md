@@ -6,7 +6,7 @@
  -
 
 <h2>👨🏾‍🎓Certifications</h2>
-- [CompTIA Security+] (https://www.credly.com/badges/f129a17b-efce-4c5d-af9f-bcc6323bbba8/linked_in_profile)
+- [CompTIA Security+](https://www.credly.com/badges/f129a17b-efce-4c5d-af9f-bcc6323bbba8/linked_in_profile)
 
 
 
