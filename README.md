@@ -21,11 +21,11 @@ Passionate IT Professional, pursuing my Bachelor Degree in Cloud Computing at We
 * 👨🏾‍🎓Networking
 
 ## 📜Projects:
-<b>Active Directory lab<b/>
+[Active Directory Lab](https://github.com/sanfofana/ActiveDirectoryLab)
  
+[Blackjack Game C++](https://github.com/sanfofana/blackjackgame)
+
 <b>Python programs<b/>
-  
- [Blackjack Game C++](https://github.com/sanfofana/blackjackgame)
   
 <b>Microsoft Azure<b/>
   
