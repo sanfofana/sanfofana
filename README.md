@@ -5,7 +5,7 @@
 
 Passionate IT Professional, pursuing my Bachelor Degree in Cloud Computing at Western Governors University.  CompTIA A+, Network+, Security +, CIOS , CSIS, and Microsoft Azure Certified. On the path for Microsoft Azure DevOps Engineer Certification. I enjoy learning and improving my skills.
 
-## 📄Certifications:
+### 📜Certifications:
 * [CSIS](https://www.credly.com/badges/fbc2e028-3c5f-46f0-8a95-59563f7115bb/linked_in_profile)
 * [Security+](https://www.credly.com/badges/f129a17b-efce-4c5d-af9f-bcc6323bbba8/linked_in_profile)
 * [CIOS](https://www.credly.com/badges/19333f72-39e8-4085-a4f8-37f8ebdf8a74/linked_in_profile)
@@ -13,30 +13,32 @@ Passionate IT Professional, pursuing my Bachelor Degree in Cloud Computing at We
 * [A+](https://www.credly.com/badges/7ff4c8e2-7d89-4c25-8f2d-ca944eb4e21f/linked_in_profile)
 * [Microsoft AZ-900](https://www.credly.com/badges/00e0b6dd-b726-473a-b88a-9032b4ca05d2?source=linked_in_profile)
 
-## 👨🏾‍💻Skills and Experience: 
+### ⛷Skills and Experience: 
 * 🐍Python
 * 🐧Linux
 * ☁️Azure
 * 🖥Java
 * 👨🏾‍🎓Networking
 
-## 📜Projects:
-[Active Directory Lab](https://github.com/sanfofana/ActiveDirectoryLab)
- 
-[Blackjack Game C++](https://github.com/sanfofana/blackjackgame)
+### Projects and Activities:
 
-<b>Python programs<b/>
-  
-<b>Microsoft Azure<b/>
-  
-  
-<b>Networking<b/>
-  
-  
-<b>Cybersecurity<b/>
- 
- 
- <b>Linux<b>
+#### 🔐Security & Linux
+* [Active Directory Lab](https://github.com/sanfofana/ActiveDirectoryLab)
+* [installing Gnome on Kali Shell](https://github.com/sanfofana/Creating-Desktop-Environment-for-linux-VM-using-Gnome)
+* [Password Validator](https://github.com/sanfofana/password_validator.py-)
+* [Disk Sanitization](https://github.com/sanfofana/Disk_sanitization)
+* [Azure Kali VM](https://github.com/sanfofana/Azure_Kali_Vm)
+
+#### 👨🏾‍💻Programming:
+* [Blackjack Game C++](https://github.com/sanfofana/blackjackgame)
+* [Imoji COnverter](https://github.com/sanfofana/imojis_converter)
+* [Phone Number Converter](https://github.com/sanfofana/phone_number_converter)
+* [Car Game](https://github.com/sanfofana/car_game)
+
+#### ∞Cloud DevOps:
+* [Azure Windows VM JSON](https://github.com/sanfofana/AzureWindowsVm)
+* [Wordpress on Azure](https://github.com/sanfofana/wordpress_on_Azure)
+* [Adding Custom Domain to Azure](https://github.com/sanfofana/custom-domain-to-Azure)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sanfofana)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/sanfofana/) 
