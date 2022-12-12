@@ -35,7 +35,7 @@ Passionate IT Professional, pursuing my Bachelor Degree in Cloud Computing at WG
 * [Phone Number Converter](https://github.com/sanfofana/phone_number_converter)
 * [Car Game](https://github.com/sanfofana/car_game)
 
-#### ∞Cloud DevOps:
+#### 🦚Cloud DevOps:
 * [Azure Windows VM](https://github.com/sanfofana/AzureWindowsVm)
 * [Wordpress on Azure](https://github.com/sanfofana/wordpress_on_Azure)
 * [Adding Custom Domain to Azure](https://github.com/sanfofana/custom-domain-to-Azure)
