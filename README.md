@@ -31,14 +31,15 @@ Passionate IT Professional, pursuing my Bachelor Degree in Cloud Computing at We
 
 #### 👨🏾‍💻Programming:
 * [Blackjack Game C++](https://github.com/sanfofana/blackjackgame)
-* [Imoji COnverter](https://github.com/sanfofana/imojis_converter)
+* [Imoji Converter](https://github.com/sanfofana/imojis_converter)
 * [Phone Number Converter](https://github.com/sanfofana/phone_number_converter)
 * [Car Game](https://github.com/sanfofana/car_game)
 
 #### ∞Cloud DevOps:
-* [Azure Windows VM JSON](https://github.com/sanfofana/AzureWindowsVm)
+* [Azure Windows VM](https://github.com/sanfofana/AzureWindowsVm)
 * [Wordpress on Azure](https://github.com/sanfofana/wordpress_on_Azure)
 * [Adding Custom Domain to Azure](https://github.com/sanfofana/custom-domain-to-Azure)
+* [Azure Wordpress WebApp](https://github.com/sanfofana/Azure_WordpressVm)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sanfofana)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/sanfofana/) 
