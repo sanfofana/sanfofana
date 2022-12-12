@@ -3,7 +3,7 @@
 ### Hi there 👋, I'm San
 #### BAS-Cloud Computing Student | A+| Net+ | Sec+| CIOS | CSIS| Azure Certified
 
-Passionate IT Professional, pursuing my Bachelor Degree in Cloud Computing at Western Governors University.  CompTIA A+, Network+, Security +, CIOS , CSIS, and Microsoft Azure Certified. On the path for Microsoft Azure DevOps Engineer Certification. I enjoy learning and improving my skills.
+Passionate IT Professional, pursuing my Bachelor Degree in Cloud Computing at WGU. CompTIA A+, Network+, Security +, CIOS , CSIS, and Microsoft Azure Certified. On the path for Microsoft Azure DevOps Engineer Expert Certification. I enjoy learning and improving my skills.
 
 ### 📜Certifications:
 * [CSIS](https://www.credly.com/badges/fbc2e028-3c5f-46f0-8a95-59563f7115bb/linked_in_profile)
