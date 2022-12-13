@@ -1,4 +1,4 @@
-<img src="https://github.com/sanfofana/multipurpfiles/blob/main/Banner.png" height="40%" width="75%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/sanfofana/multipurpfiles/blob/main/Banner.png" height="40%" width="100%" alt="Disk Sanitization Steps"/>
 
 ### Hi, I'm San!
 #### BAS-Cloud Computing Student | A+| Net+ | Sec+| CIOS | CSIS| Azure Certified
