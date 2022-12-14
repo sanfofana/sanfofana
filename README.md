@@ -23,7 +23,7 @@ Passionate IT Professional, pursuing my Bachelor Degree in Cloud Computing at WG
 
 #### 🔐Security & Linux
 * [Active Directory Lab](https://github.com/sanfofana/ActiveDirectoryLab)
-* [How to SSH in Kali Vm using private key-SHA256](https://github.com/sanfofana/SSH_in_Azure_Linux_VM_using_Private_Key/blob/main/README.md)
+* [SSH in a Kali Vm using private key-SHA256](https://github.com/sanfofana/SSH_in_Azure_Linux_VM_using_Private_Key/blob/main/README.md)
 * [installing Gnome on Kali Shell](https://github.com/sanfofana/Creating-Desktop-Environment-for-linux-VM-using-Gnome)
 * [Password Validator](https://github.com/sanfofana/password_validator.py-)
 * [Disk Sanitization](https://github.com/sanfofana/Disk_sanitization)
