@@ -36,7 +36,7 @@ Passionate IT Professional, pursuing my Bachelor Degree in Cloud Computing at WG
 * [Car Game](https://github.com/sanfofana/car_game)
 
 #### 🦚Cloud DevOps:
-* [Azure Windows VM](https://github.com/sanfofana/AzureWindowsVm)
+* [Azure Windows VM JSON](https://github.com/sanfofana/AzureWindowsVm)
 * [SSH Azure VM using Private Key](https://github.com/sanfofana/SSH_in_Azure_Linux_VM_using_Private_Key/blob/main/README.md)
 * [Wordpress on Azure](https://github.com/sanfofana/wordpress_on_Azure)
 * [Adding Custom Domain to Azure](https://github.com/sanfofana/custom-domain-to-Azure)
