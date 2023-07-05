@@ -16,7 +16,7 @@ Passionate IT Professional, pursuing my Bachelor Degree in Cloud Computing at WG
 * 🐍Python
 * 🐧Linux
 * ☁️Azure
-* 🖥Java
+* 🖥JSON
 * 👨🏾‍🎓Networking
 
 ### Projects and Activities:
